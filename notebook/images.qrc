@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>email-info.png</file>
+        <file>finder.png</file>
+        <file>spellchecker.png</file>
+        <file>teddy-bear.png</file>
+        <file>open-file.png</file>
+        <file>delete-file.png</file>
+    </qresource>
+</RCC>
